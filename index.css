@@ -1,0 +1,17 @@
+
+.footer-icons-left-secition i,
+.footer-icons-right-secition i {
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+.footer-icons-left-secition i.fa-solid.fa-heart {
+    color: red;
+}
+.footer-icons-right-secition i.fa-solid.fa-bookmark {
+    color: #ffc107;
+}
+.instagram-icon {
+    background: linear-gradient(45deg, #f58529, #d9317a, #bc2a8d, #833ab4, #fd1d1d);
+    background-clip: text;
+    color: transparent;
+}
